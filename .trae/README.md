@@ -1,14 +1,13 @@
 # Everything Claude Code for Trae
 
-Bring Everything Claude Code (ECC) workflows to Trae IDE. This repository provides custom commands, agents, skills, and rules that can be installed into any Trae project with a single command.
+Bring Everything Claude Code (ECC) workflows to Trae IDE. This repository provides custom commands, agents, skills, and rules that can be instmmand.
 
 ## Quick Start
 
 ### Option 1: Local Installation (Current Project Only)
-
 ```bash
 # Install to current project
-cd /path/to/your/project
+cd /p
 TRAE_ENV=cn .trae/install.sh
 ```
 
